@@ -1,4 +1,8 @@
 # Hungry-Python-
+
+"""To start the game---> click Kernel ---> restart & run all.
+Within this game a moving snake will appear that can be controlled using the arrow buttons (up, down, left, right) on your keyboard.You can quit the Game anytime by pressing 'q' on the keyborad. Food icons will appear one at a time, in order to eat them run over them with the snake. Each piece of food that is collected results in the snake's body increasing length. The game is over when the snake runs into itself. One feature that is different from the original snake game is that the snake is able to run off the screen and teleport to the opposite side, back into view."""
+
 import turtle
 
 import random
